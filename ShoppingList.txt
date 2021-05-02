@@ -7,4 +7,5 @@ cherries
 cereal
 Cucumbers
 Radishes
-Walnuts (English)
+extra peaches added in the terminal and walnuts deleted
+and one more
